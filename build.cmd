@@ -1,0 +1,1 @@
+pyinstaller egg.py --onefile --noconsole --add-binary pic:. --add-binary sounds:. --add-binary fonts:. --icon=icon.ico
